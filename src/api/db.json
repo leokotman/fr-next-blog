@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "password": "1234Jsd5_678as9",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "password": "0485sdf720_244",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "password": "sdkfk44020_34",
+      "role": "admin"
+    },
+    {
+      "id": 4,
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "password": "kf0234Ksdf_349",
+      "role": "user"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 2,
+      "id": 11,
+      "title": "et ea vero quia laudantium autem",
+      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+    },
+    {
+      "userId": 2,
+      "id": 12,
+      "title": "in quibusdam tempore odit est dolorem",
+      "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
+    },
+    {
+      "userId": 3,
+      "id": 22,
+      "title": "dolor sint quo a velit explicabo quia nam",
+      "body": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse"
+    },
+    {
+      "userId": 3,
+      "id": 23,
+      "title": "maxime id vitae nihil numquam",
+      "body": "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis"
+    },
+    {
+      "userId": 4,
+      "id": 31,
+      "title": "ullam ut quidem id aut vel consequuntur",
+      "body": "debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae"
+    },
+    {
+      "userId": 4,
+      "id": 32,
+      "title": "doloremque illum aliquid sunt",
+      "body": "deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime"
+    }
+  ]
+}
